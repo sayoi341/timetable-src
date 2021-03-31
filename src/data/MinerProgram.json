@@ -1,0 +1,32 @@
+{
+  "G": {
+    "Friday": {
+      "3": {"main": "Global Science", "subtitle": ""},
+      "4": {"main": "Global Science", "subtitle": ""}
+    }
+  },
+  "M": {
+    "Friday": {
+      "3": {"main": "機械・制御基礎Ⅰ", "subtitle": ""},
+      "4": {"main": "機械・制御基礎Ⅰ", "subtitle": ""}
+    }
+  },
+  "E": {
+    "Friday": {
+      "3": {"main": "電気電子基礎学", "subtitle": ""},
+      "4": {"main": "電気電子基礎額", "subtitle": ""}
+    }
+  },
+  "I": {
+    "Friday": {
+      "3": {"main": "コンピュータープログラミングⅠ", "subtitle": ""},
+      "4": {"main": "コンピュータープログラミングⅠ", "subtitle": ""}
+    }
+  },
+  "C": {
+    "Friday": {
+      "3": {"main": "化学通論Ⅰ", "subtitle": ""},
+      "4": {"main": "化学通論Ⅰ", "subtitle": ""}
+    }
+  }
+}

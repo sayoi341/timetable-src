@@ -1,0 +1,112 @@
+{
+  "MM": {
+    "Wednesday": {
+      "5": {"main": "電気回路", "subtitle": ""},
+      "6": {"main": "プログラミング", "subtitle": ""},
+      "7": {"main": "", "subtitle": ""},
+      "8": {"main": "", "subtitle": ""}
+    },
+    "Thursday": {
+      "5": {"main": "機械・制御工学実験", "subtitle": ""},
+      "6": {"main": "機械・制御工学実験", "subtitle": ""},
+      "7": {"main": "機械・制御工学実験", "subtitle": ""},
+      "8": {"main": "機械・制御工学実験", "subtitle": ""}
+    },
+    "Friday": {
+      "1": {"main": "機械設計製図基礎", "subtitle": ""},
+      "2": {"main": "機械設計製図基礎", "subtitle": ""},
+      "5": {"main": "加工工学", "subtitle": ""},
+      "6": {"main": "加工工学", "subtitle": ""},
+      "7": {"main": "論理回路", "subtitle": ""},
+      "8": {"main": "", "subtitle": ""}
+    }
+  },
+  "MS": {
+    "Wednesday": {
+      "5": {"main": "機械設計製図基礎", "subtitle": ""},
+      "6": {"main": "機械設計製図基礎", "subtitle": ""},
+      "7": {"main": "プログラミング", "subtitle": ""},
+      "8": {"main": "", "subtitle": ""}
+    },
+    "Thursday": {
+      "5": {"main": "加工工学", "subtitle": ""},
+      "6": {"main": "加工工学", "subtitle": ""},
+      "7": {"main": "", "subtitle": ""},
+      "8": {"main": "", "subtitle": ""}
+    },
+    "Friday": {
+      "1": {"main": "論理回路", "subtitle": ""},
+      "2": {"main": "電気回路", "subtitle": ""},
+      "5": {"main": "機械・制御工学実験", "subtitle": ""},
+      "6": {"main": "機械・制御工学実験", "subtitle": ""},
+      "7": {"main": "機械・制御工学実験", "subtitle": ""},
+      "8": {"main": "機械・制御工学実験", "subtitle": ""}
+    }
+  },
+  "E": {
+    "Wednesday": {
+      "5": {"main": "電気電子計測", "subtitle": ""},
+      "6": {"main": "電気電子システム工学実験", "subtitle": ""},
+      "7": {"main": "電気電子システム工学実験", "subtitle": ""},
+      "8": {"main": "", "subtitle": ""}
+    },
+    "Thursday": {
+      "5": {"main": "電気基礎学", "subtitle": ""},
+      "6": {"main": "電気基礎学", "subtitle": ""},
+      "7": {"main": "電気回路", "subtitle": ""},
+      "8": {"main": "", "subtitle": ""}
+    },
+    "Friday": {
+      "1": {"main": "ディジタル回路", "subtitle": ""},
+      "2": {"main": "ディジタル回路", "subtitle": ""},
+      "5": {"main": "電気回路", "subtitle": ""},
+      "6": {"main": "電気回路", "subtitle": ""},
+      "7": {"main": "", "subtitle": ""},
+      "8": {"main": "", "subtitle": ""}
+    }
+  },
+  "I": {
+    "Wednesday": {
+      "5": {"main": "情報論理", "subtitle": ""},
+      "6": {"main": "情報論理", "subtitle": ""},
+      "7": {"main": "情報工学実験Ⅰ", "subtitle": ""},
+      "8": {"main": "情報工学実験Ⅰ", "subtitle": ""}
+    },
+    "Thursday": {
+      "5": {"main": "論理回路Ⅰ", "subtitle": ""},
+      "6": {"main": "論理回路Ⅰ", "subtitle": ""},
+      "7": {"main": "", "subtitle": ""},
+      "8": {"main": "", "subtitle": ""}
+    },
+    "Friday": {
+      "1": {"main": "プログラミングⅠ", "subtitle": ""},
+      "2": {"main": "プログラミングⅠ", "subtitle": ""},
+      "5": {"main": "コンピューターアーキテクチャ基礎", "subtitle": ""},
+      "6": {"main": "コンピューターアーキテクチャ基礎", "subtitle": ""},
+      "7": {"main": "", "subtitle": ""},
+      "8": {"main": "", "subtitle": ""}
+    }
+  },
+  "C": {
+    "Wednesday": {
+      "5": {"main": "化学ゼミナール", "subtitle": ""},
+      "6": {"main": "化学ゼミナール", "subtitle": ""},
+      "7": {"main": "有機化学", "subtitle": ""},
+      "8": {"main": "", "subtitle": ""}
+    },
+    "Thursday": {
+      "5": {"main": "物質工学実験Ⅰ", "subtitle": ""},
+      "6": {"main": "物質工学実験Ⅰ", "subtitle": ""},
+      "7": {"main": "物質工学実験Ⅰ", "subtitle": ""},
+      "8": {"main": "", "subtitle": ""}
+    },
+    "Friday": {
+      "1": {"main": "情報処理", "subtitle": ""},
+      "2": {"main": "無機化学Ⅰ", "subtitle": ""},
+      "5": {"main": "分析化学", "subtitle": ""},
+      "6": {"main": "分析化学", "subtitle": ""},
+      "7": {"main": "", "subtitle": ""},
+      "8": {"main": "", "subtitle": ""}
+    }
+  }
+}
