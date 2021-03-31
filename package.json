@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "がんばる",
   "scripts": {
-    "start": "webpack serve"
+    "start": "webpack serve",
+    "build": "webpack",
+    "deploy": "npm run build && gh-pages -d dist"
   },
   "author": "sayoi341",
   "license": "ISC",
