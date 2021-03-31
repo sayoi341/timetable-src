@@ -1,0 +1,157 @@
+{
+  "1": {
+    "Monday": {
+      "1": {"main": "物理", "subtitle": ""},
+      "2": {"main": "物理", "subtitle": ""},
+      "3": {"main": "日本史", "subtitle": ""},
+      "4": {"main": "日本史", "subtitle": ""},
+      "5": {"main": "体育実技Ⅰ", "subtitle": ""},
+      "6": {"main": "解析学", "subtitle": ""},
+      "7": {"main": "ホームルーム", "subtitle": ""}
+    },
+    "Tuesday": {
+      "1": {"main": "代数・幾何", "subtitle": ""},
+      "2": {"main": "代数・幾何", "subtitle": ""},
+      "3": {"main": "体育実技Ⅰ", "subtitle": ""},
+      "4": {"main": "OC", "subtitle": ""},
+      "5": {"main": "英語Ⅱ", "subtitle": ""},
+      "6": {"main": "英語Ⅱ", "subtitle": ""}
+    },
+    "Wednesday": {
+      "1": {"main": "解析学", "subtitle": ""},
+      "2": {"main": "解析学", "subtitle": ""},
+      "3": {"main": "英語Ⅱ", "subtitle": ""},
+      "4": {"main": "英語Ⅱ", "subtitle": ""}
+    },
+    "Thursday": {
+      "1": {"main": "化学", "subtitle": "（マ）"},
+      "2": {"main": "化学", "subtitle": "（マ）"},
+      "3": {"main": "国語Ⅱ", "subtitle": ""},
+      "4": {"main": "国語Ⅱ", "subtitle": ""}
+    }
+  },
+  "2": {
+    "Monday": {
+      "1": {"main": "代数・幾何", "subtitle": ""},
+      "2": {"main": "代数・幾何", "subtitle": ""},
+      "3": {"main": "英語Ⅱ", "subtitle": ""},
+      "4": {"main": "英語Ⅱ", "subtitle": ""},
+      "5": {"main": "化学", "subtitle": ""},
+      "6": {"main": "化学", "subtitle": ""},
+      "7": {"main": "ホームルーム", "subtitle": ""}
+    },
+    "Tuesday": {
+      "1": {"main": "英語Ⅱ", "subtitle": ""},
+      "2": {"main": "英語Ⅱ", "subtitle": ""},
+      "3": {"main": "国語Ⅱ", "subtitle": ""},
+      "4": {"main": "国語Ⅱ", "subtitle": ""},
+      "5": {"main": "体育実技Ⅰ", "subtitle": ""},
+      "6": {"main": "OC", "subtitle": ""}
+    },
+    "Wednesday": {
+      "1": {"main": "解析学", "subtitle": ""},
+      "2": {"main": "解析学", "subtitle": ""},
+      "3": {"main": "物理", "subtitle": ""},
+      "4": {"main": "物理", "subtitle": ""}
+    },
+    "Thursday": {
+      "1": {"main": "日本史", "subtitle": ""},
+      "2": {"main": "日本史", "subtitle": ""},
+      "3": {"main": "体育実技Ⅰ", "subtitle": ""},
+      "4": {"main": "解析学", "subtitle": ""}
+    }
+  },
+  "3": {
+    "Monday": {
+      "1": {"main": "英語Ⅱ", "subtitle": ""},
+      "2": {"main": "英語Ⅱ", "subtitle": ""},
+      "3": {"main": "体育実技Ⅰ", "subtitle": ""},
+      "4": {"main": "解析学", "subtitle": ""},
+      "5": {"main": "国語Ⅱ", "subtitle": ""},
+      "6": {"main": "国語Ⅱ", "subtitle": ""},
+      "7": {"main": "ホームルーム", "subtitle": ""}
+    },
+    "Tuesday": {
+      "1": {"main": "日本史","subtitle": ""},
+      "2": {"main": "OC", "subtitle": ""},
+      "3": {"main": "英語Ⅱ", "subtitle": ""},
+      "4": {"main": "英語Ⅱ", "subtitle": ""},
+      "5": {"main": "代数・幾何", "subtitle": ""},
+      "6": {"main": "代数・幾何", "subtitle": ""}
+    },
+    "Wednesday": {
+      "1": {"main": "物理", "subtitle": ""},
+      "2": {"main": "物理", "subtitle": ""},
+      "3": {"main": "化学", "subtitle": ""},
+      "4": {"main": "化学", "subtitle": ""}
+    },
+    "Thursday": {
+      "1": {"main": "解析学", "subtitle": ""},
+      "2": {"main": "解析学", "subtitle": ""},
+      "3": {"main": "日本史", "subtitle": ""},
+      "4": {"main": "体育実技Ⅰ", "subtitle": ""}
+    }
+  },
+  "4": {
+    "Monday": {
+      "1": {"main": "国語Ⅱ", "subtitle": ""},
+      "2": {"main": "国語Ⅱ", "subtitle": ""},
+      "3": {"main": "化学", "subtitle": ""},
+      "4": {"main": "化学", "subtitle": ""},
+      "5": {"main": "解析学", "subtitle": ""},
+      "6": {"main": "体育実技Ⅰ", "subtitle": ""},
+      "7": {"main": "ホームルーム", "subtitle": ""}
+    },
+    "Tuesday": {
+      "1": {"main": "英語Ⅱ", "subtitle": ""},
+      "2": {"main": "英語Ⅱ", "subtitle": ""},
+      "3": {"main": "OC", "subtitle": ""},
+      "4": {"main": "体育実技Ⅰ", "subtitle": ""},
+      "5": {"main": "日本史", "subtitle": ""},
+      "6": {"main": "日本史", "subtitle": ""}
+    },
+    "Wednesday": {
+      "1": {"main": "英語Ⅱ", "subtitle": ""},
+      "2": {"main": "英語Ⅱ", "subtitle": ""},
+      "3": {"main": "代数・幾何", "subtitle": ""},
+      "4": {"main": "代数・幾何", "subtitle": ""}
+    },
+    "Thursday": {
+      "1": {"main": "解析学", "subtitle": ""},
+      "2": {"main": "解析学", "subtitle": ""},
+      "3": {"main": "物理", "subtitle": ""},
+      "4": {"main": "物理", "subtitle": ""}
+    }
+  },
+  "5": {
+    "Monday": {
+      "1": {"main": "英語Ⅱ", "subtitle": ""},
+      "2": {"main": "英語Ⅱ", "subtitle": ""},
+      "3": {"main": "物理", "subtitle": ""},
+      "4": {"main": "体育実技Ⅰ", "subtitle": ""},
+      "5": {"main": "解析学", "subtitle": ""},
+      "6": {"main": "解析学", "subtitle": ""},
+      "7": {"main": "ホームルーム", "subtitle": ""}
+    },
+    "Tuesday": {
+      "1": {"main": "国語Ⅱ", "subtitle": ""},
+      "2": {"main": "国語Ⅱ", "subtitle": ""},
+      "3": {"main": "日本史", "subtitle": ""},
+      "4": {"main": "日本史", "subtitle": ""},
+      "5": {"main": "OC", "subtitle": ""},
+      "6": {"main": "物理", "subtitle": ""}
+    },
+    "Wednesday": {
+      "1": {"main": "英語Ⅱ", "subtitle": ""},
+      "2": {"main": "英語Ⅱ", "subtitle": ""},
+      "3": {"main": "代数・幾何", "subtitle": ""},
+      "4": {"main": "代数・幾何", "subtitle": ""}
+    },
+    "Thursday": {
+      "1": {"main": "解析学", "subtitle": ""},
+      "2": {"main": "体育実技Ⅰ", "subtitle": ""},
+      "3": {"main": "化学", "subtitle": ""},
+      "4": {"main": "化学", "subtitle": ""}
+    }
+  }
+}
