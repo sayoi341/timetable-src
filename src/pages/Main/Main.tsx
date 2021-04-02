@@ -77,7 +77,7 @@ const Main:FC = () => {
                     <tr>
                         <th>7</th>
                         <th>{ClassProgram[Class]["Monday"]["7"]["main"]}</th>
-                        <th>{MajorProgram[Major]["Thursday"]["7"]["main"]}</th>
+                        <th>{}</th>
                         <th>{MajorProgram[Major]["Wednesday"]["7"]["main"]}</th>
                         <th>{MajorProgram[Major]["Thursday"]["7"]["main"]}</th>
                         <th>{MajorProgram[Major]["Friday"]["7"]["main"]}</th>
@@ -85,7 +85,7 @@ const Main:FC = () => {
                     <tr>
                         <th>8</th>
                         <th>{}</th>
-                        <th>{MajorProgram[Major]["Thursday"]["8"]["main"]}</th>
+                        <th>{}</th>
                         <th>{MajorProgram[Major]["Wednesday"]["8"]["main"]}</th>
                         <th>{MajorProgram[Major]["Thursday"]["8"]["main"]}</th>
                         <th>{MajorProgram[Major]["Friday"]["8"]["main"]}</th>
